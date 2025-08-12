@@ -31,3 +31,7 @@ Le notebook `elonmusk.ipynb` présente les étapes de collecte, nettoyage, analy
    git clone https://github.com/halima570/sentiments_analyst_mongoDB.git
    cd sentiments_analyst_mongoDB
 ```
+
+## Contact
+
+Pour toute question, tu peux me contacter via mon profil linkedin (www.linkedin.com/in/halima-el-hagouchi-61a21a213).
